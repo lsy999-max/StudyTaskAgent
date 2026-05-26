@@ -216,4 +216,5 @@ Demo video link: https://drive.google.com/file/d/1nZ24f5CRpo90q3KI_RFMUvPwAtu4A5
 
 ## Author
 
+Siyun Liu  
 This project was developed as an intelligent software agent prototype.
