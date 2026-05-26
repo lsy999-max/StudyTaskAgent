@@ -210,7 +210,7 @@ Future improvements could include:
 
 ## Demo Video
 
-Demo video link: [To be added.](https://drive.google.com/file/d/1nZ24f5CRpo90q3KI_RFMUvPwAtu4A5sx/view?usp=sharing)
+Demo video link: https://drive.google.com/file/d/1nZ24f5CRpo90q3KI_RFMUvPwAtu4A5sx/view?usp=sharing
 
 ---
 
